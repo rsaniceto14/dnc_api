@@ -22,7 +22,7 @@ Ambiente
 Banco de dados: MySQL<br />
 Database: db_dnc.sql <br />
 framework: Laravel e Bootstrap (front-end)<br />
-Postman (para testes de request) <br />
+Postman (para testes de request e inserts) <br />
 composer<br />
 Para integração com front utilizar o caminho para colocar os arquivos  /resources/views e a chamada do front será realizada através de rotas no arquivo /routes/web.php
 
