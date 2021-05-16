@@ -20,7 +20,7 @@ Desenvolvimento de uma API em laravel com endpoint de inserção e consulta de d
 Ambiente
 
 Banco de dados: MySQL<br />
-DatabaseÇ db_dnc.sql <br />
+Database: db_dnc.sql <br />
 framework: Laravel e Bootstrap (front-end)<br />
 Postman (para testes de request) <br />
 composer<br />
